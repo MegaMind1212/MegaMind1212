@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I am Yash Borkar a Developer, from Mumbai-Pune. Studying Computer Science with specialization in Cyber Security, Network Security and Frontend Developemnt.</h2>
+<h2 align="left">👋! I am Yash Borkar a Developer, from Mumbai-Pune. Studying Computer Science with specialization in Cyber Security, Network Security and Frontend Developemnt.</h2>
 
 ###
 
