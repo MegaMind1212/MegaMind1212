@@ -9,15 +9,6 @@
 
 ###
 
-<div style="width:333px;max-width:100%;">
-  <div style="height:0;padding-bottom:150.15%;position:relative;">
-    <iframe width="333" height="500" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/8hq16i"></iframe>
-  </div>
-  <p><a href="https://imgflip.com/gif/8hq16i">via Imgflip</a></p>
-</div>
-
-###
-
 
 <div align="left">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" height="30" alt="CSS3 logo" />
